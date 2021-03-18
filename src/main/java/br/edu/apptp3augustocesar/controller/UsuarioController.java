@@ -21,7 +21,7 @@ public class UsuarioController {
 		
 		model.addAttribute("nome", "Augusto Cesar");
 		model.addAttribute("email", "augusto.oliveira@al.infnet.edu.br");
-		model.addAttribute("nome", "https://github.com/kraiserfury/TP3-Java-EE.git");
+		model.addAttribute("nome", "https://github.com/kraiserfury/Java-EE-TP3.git");
 		return "index";
 	}
 	
